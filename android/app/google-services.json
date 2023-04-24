@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "69493045557",
+    "project_id": "remote-ctrl-auth",
+    "storage_bucket": "remote-ctrl-auth.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:69493045557:android:8e9f926d95e8f9796d747c",
+        "android_client_info": {
+          "package_name": "com.example.remote_control"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "69493045557-iisv5d0re8s8gtdm7gkp0s69iuk2meau.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCl9mkXQCmjxBMS3DN9EDIbZgvhK5PYogk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "69493045557-iisv5d0re8s8gtdm7gkp0s69iuk2meau.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
