@@ -8,4 +8,4 @@ Please find the already signedUp user details with prefilled values which can be
 * email: user02@gmail.com | password: 1234567
 * email: user03@gmail.com | password: 1234567
 
-Note: You can also signup using any of the valid mail id and password.
+**Note:** You can also signup using any of the valid mail id and password.
